@@ -2,8 +2,8 @@ var data = [
   {
     datetime: "1/1/2020",
     city: "belfast",
-    state: "ArLa",
-    country: "NI",
+    state: "ma",
+    country: "us",
     shape: "arseicle",
     durationMinutes: "17 mins.",
     comments: "4 bright green circles high in the sky after 10 pints of stout!"

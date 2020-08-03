@@ -43,3 +43,6 @@ Make sure your repo is up to date and includes the following:
 - The completed code saved in the proper folder structure.
 - NOTE: Make sure your JavaScript file is saved as app.js
 - A clean website with a functioning filter table
+
+Screenshot of webpage
+![UFOs with multiple filters](https://github.com/damiencorr/UFOs/blob/master/UFOs%20homepage%20screenshot%20-%20Annotation%202020-08-03%20183721.png)
